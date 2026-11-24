@@ -19,7 +19,7 @@ Volvo Group on decision-making for autonomous trucks. Based in Gothenburg.
   four C-MAPSS test sets (course project with Hooman Hamze).
 - [knee-exercise-classifier](https://github.com/benhou23/knee-exercise-classifier):
   recognising knee rehabilitation exercises from encoder and IMU data (design
-  project with Linnea Person and Leo Barberan).
+  project with Linnea Persson and Leo Barberan).
 
 **Tools:** Python (PyTorch, Stable-Baselines3, NumPy, Numba, scikit-learn,
 pandas), MATLAB and Simulink, SQL, SUMO/TraCI, Git, Linux, Docker
